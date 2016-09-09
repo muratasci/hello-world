@@ -1,2 +1,2 @@
 # hello-world
-just another repository
+there is no past although there was a past.
